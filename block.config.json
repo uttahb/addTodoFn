@@ -1,0 +1,13 @@
+{
+  "name": "addTodoFn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/uttahb/addTodoFn",
+    "ssh": "git@github.com:uttahb/addTodoFn.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
